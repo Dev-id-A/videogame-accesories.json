@@ -1,0 +1,143 @@
+[
+{
+    "name": "Nintendo Entertainment System (NES)",
+    "id": 1,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Nes.jpg",
+    "price": 100
+},
+{
+    "name": "Family Computer (Famicom)",
+    "id": 2,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Famicom.jpg",
+    "price": 130
+},
+{
+    "name": "Game Boy",
+    "id": 3,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Gameboy.jpg",
+    "price": 130
+}
+,{
+    "name": "Super Famicom",
+    "id": 4,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Super-famicom.jpg",
+    "price": 100
+},
+{
+    "name": "Super Nintendo Entertainment System (SNES)",
+    "id": 5,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Snes.jpg",
+    "price": 110
+},
+{
+    "name": "Nintendo 64 (N64)",
+    "id": 6,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/N64.jpg",
+    "price": 170
+},
+{
+    "name": "Game Boy Color",
+    "id": 7,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Gameboy-color.jpg",
+    "price": 110
+},
+{
+    "name": "Nintendo GameCube",
+    "id": 8,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Gamecube.jpg",
+    "price": 130
+},
+{
+    "name": "Game Boy Advance",
+    "id": 9,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Gameboy-advance.jpg",
+    "price": 120
+},
+{
+    "name": "Nintendo DS",
+    "id": 10,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Nintendo-ds.jpg",
+    "price": 70
+},
+{
+    "name": "Wii",
+    "id": 11,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Wii.jpg",
+    "price": 140
+}
+,
+{
+    "name": "Nintendo 3DS",
+    "id": 12,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Nintendo-3ds.jpg",
+    "price": 1300
+},
+{
+    "name": "Wii U",
+    "id": 13,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Wii-u.jpg",
+    "price": 110
+},
+{
+    "name": "Nintendo Switch",
+    "id": 14,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Nintendo-switch.jpg",
+    "price": 230
+},
+{
+    "name": "Nintendo Switch 2",
+    "id": 15,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Nintendo-switch-2.avif",
+    "price": 490
+},
+{
+    "name": "Xbox",
+    "id": 16,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Xbox.jpg",
+    "price": 100
+},
+{
+    "name": "Xbox 360",
+    "id": 17,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Xbox-360.jpg",
+    "price": 80
+},
+{
+    "name": "Xbox One",
+    "id": 18,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Xbox-one.jpg",
+    "price": 100
+},
+{
+    "name": "Xbox One S",
+    "id": 19,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Xbox-one-s.jpg",
+    "price":   120
+},
+{
+    "name": "Xbox One X",
+    "id": 20,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Xbox-one-x.jpg",
+    "price": 150
+}
+]
