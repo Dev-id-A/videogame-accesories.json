@@ -139,5 +139,75 @@
     "type": "Console",
     "img": "accesories-img-25-1(st)/Xbox-one-x.jpg",
     "price": 150
+},
+{
+    "name": "PlayStation (PS1)",
+    "id": 21,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Ps1.jpg",
+    "price": 70
+},
+{
+    "name": "PlayStation 2 (PS2)",
+    "id": 22,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Ps2.jpg",
+    "price": 100
+},
+{
+    "name": "PlayStation Portable (PSP)",
+    "id": 23,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Psp.jpg",
+    "price": 70
+},
+{
+    "name": "PlayStation 3 (PS3)",
+    "id": 24,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Ps3.jpg",
+    "price": 80
+},
+{
+    "name": "PlayStation Vita (PS Vita)",
+    "id": 25,
+    "type": "Console",
+    "img": "accesories-img-25-1(st)/Psvita.jpg",
+    "price": 120
+},
+{
+    "name": "PlayStation 4 (PS4)",
+    "id": 26,
+    "type": "Console",
+    "img": "",
+    "price": 130
+},
+{
+    "name": "PlayStation 5 (PS5)",
+    "id": 27,
+    "type": "Console",
+    "img": "accesories-img-25-2(nd)/Ps5.jpg",
+    "price": 400
+},
+{
+    "name": "Sega Master System",
+    "id": 28,
+    "type": "Console",
+    "img": "accesories-img-25-2(nd)/Master-system.jpg",
+    "price": 130
+},
+{
+    "name": "Sega Mega Drive / Genesis",
+    "id": 29,
+    "type": "Console",
+    "img": "accesories-img-25-2(nd)/Genesis.jpg",
+    "price": 130
+},
+{
+    "name": "Sega Saturn",
+    "id": 30,
+    "type": "Console",
+    "img": "accesories-img-25-2(nd)/Saturn.jpg",
+    "price": 150
 }
 ]
